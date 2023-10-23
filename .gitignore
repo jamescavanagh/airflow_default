@@ -1,0 +1,2 @@
+/_bash/.*
+/airflow_files/*.log
